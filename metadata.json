@@ -1,0 +1,6 @@
+{
+  "name": "PNS Hostel & PG",
+  "description": "Modern and professional hostel located in Nagaram, Hyderabad offering clean rooms, hygienic food, high-speed Wi-Fi, and top-tier amenities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
